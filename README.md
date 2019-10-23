@@ -1,10 +1,8 @@
 # Overview
-Unit 8: Group Milestone - README Example
+Unit 8: Group Milestone - README 
 ===
 
-:::info
-**Below is an example** of what your **Group Project README** should include and how it should be structured for the **Unit 8 Group Milestone Submission**.
-:::
+
 
 # TUNIN
 
@@ -18,12 +16,12 @@ Unit 8: Group Milestone - README Example
 Tracks what music an individual listens to, and pairs them with others based on that music. Could be potentially used as a dating app, or just meeting new friends with similar music tastes.
 
 ### App Evaluation
-- **Category:** Fitness
-- **Mobile:** This app would be primarily developed for mobile but would perhaps be just as viable on a computer, such as tinder or other similar apps. Functionality wouldn't be limited to mobile devices, however mobile version could potentially have more features.
-- **Story:** Analyzes users music choices, and connects them to other users with similar choices. The user can then decide to message this person and befriend them if wanted.
-- **Market:** Any individual could choose to use this app, and to keep it a safe environment, people would be organized into age groups.
-- **Habit:** This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they're looking for.
-- **Scope:** First we would start with pairing people based on music taste, then perhaps this could evolve into a music sharing application as well to broaden its usage. Large potential for use with spotify, apple music, or other music streaming applications.
+- **Category:** Fitness/Health
+- **Mobile:** This app would be primarily developed for mobile but would perhaps be just as viable on a computer. Functionality wouldn't be limited to mobile devices, however mobile version could potentially have more features.
+- **Story:** Helps fitness beginners to perform exercises through visual instruction. Users can be shown proper technique to exercises while present in the gym. 
+- **Market:** Any individual could choose to use this app. For documentation purposes, the general market would be individuals above the age of 13.
+- **Habit:** This app could be used as often or unoften as the user wanted depending on their fitness goals.
+- **Scope:** First we would start with letting users build profiles and building their own workouts, maybe it can be expand to sharing your workouts to other profiles.
 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
