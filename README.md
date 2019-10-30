@@ -1,10 +1,9 @@
-# Overview
-Unit 8: Group Milestone - README 
+# Overview - README 
 ===
 
 
 
-# TUNIN
+# Help Me Fitness
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -13,7 +12,7 @@ Unit 8: Group Milestone - README
 
 ## Overview
 ### Description
-Tracks what music an individual listens to, and pairs them with others based on that music. Could be potentially used as a dating app, or just meeting new friends with similar music tastes.
+Let users start their fitness journey easy. Users can go into the app and have videos available to them to learn proper technique for certain exercises. Users are able to formulate their own workout and save it for later. 
 
 ### App Evaluation
 - **Category:** Fitness/Health
@@ -35,11 +34,9 @@ Tracks what music an individual listens to, and pairs them with others based on 
 
 **Optional Nice-to-have Stories**
 
-* Log of past songs/people with album art covers matching
-* Page of most played songs (i.e. songs that most users are connecting through)
-* Profile Add-On: Top music choices, etc.
-* Optional Shuffle Button (i.e. random encounter/random song)
-* Listening/Encounter Queue
+* Log of stats relating to workouts
+* Step Tracker
+* Profile Add-On: Type of User
 
 ### 2. Screen Archetypes
 
@@ -60,25 +57,26 @@ Tracks what music an individual listens to, and pairs them with others based on 
 
 **Tab Navigation** (Tab to Screen)
 
-* Music selection
+* Workout Selection
 * Profile
 * Settings
 
 Optional:
-* Music/Encounter Queue
-* Discover (Top Choices)
+* Workout Searching
+* Workout Browsing (Top Workouts)
 
 **Flow Navigation** (Screen to Screen)
 * Forced Log-in -> Account creation if no log in is available
-* Music Selection (Or Queue if Optional) -> Jumps to Chat
+* Workout Selection (Or Browsing if Optional) -> Workout Contents Page 
 * Profile -> Text field to be modified. 
 * Settings -> Toggle settings
+* Workout Searching (If Available) -> Text Field to be modified
 
 ## Wireframes
-<img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
+<img src="" width=800><br>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://i.imgur.com/lYHn37F.jpg" height=200>
+<img src="" height=200>
 
 ### [BONUS] Interactive Prototype
 <img src="https://i.imgur.com/AiKfE5g.gif" width=200>
