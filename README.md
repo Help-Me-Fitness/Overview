@@ -1,10 +1,9 @@
-# Overview
-Unit 8: Group Milestone - README 
+# Overview - README 
 ===
 
 
 
-# TUNIN
+# Help Me Fitness
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -13,7 +12,7 @@ Unit 8: Group Milestone - README
 
 ## Overview
 ### Description
-Tracks what music an individual listens to, and pairs them with others based on that music. Could be potentially used as a dating app, or just meeting new friends with similar music tastes.
+Let users start their fitness journey easy. Users can go into the app and have videos available to them to learn proper technique for certain exercises. Users are able to formulate their own workout and save it for later. 
 
 ### App Evaluation
 - **Category:** Fitness/Health
