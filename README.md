@@ -42,14 +42,13 @@ Let users start their fitness journey easy. Users can go into the app and have v
 
 * Login 
 * Register - User signs up or logs into their account
-   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
-   * ...
-* Messaging Screen - Chat for users to communicate (direct 1-on-1)
-   * Upon selecting music choice users matched and message screen opens
+   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information.
 * Profile Screen 
-   * Allows user to upload a photo and fill in information that is interesting to them and others
-* Song Selection Screen.
-   * Allows user to be able to choose their desired song, artist, genre of preference and begin listening and interacting with others.
+   * Allows user to upload a photo and fill out information necessary for calorie count and weight adjustment. 
+* Exercise Selection
+   * Allows user to search for exercises. It will pull up the exercises that have vidoes and explanations. 
+* Certain Exercise Page
+   * This is the exercise they are looking for, but towards the whole screen. This provides the video, with tips underneath for              technique. 
 * Settings Screen
    * Lets people change language, and app notification settings.
 
