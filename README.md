@@ -29,7 +29,7 @@ Let users start their fitness journey easy. Users can go into the app and have v
 
 * User logs in to access workout plan/profile
 * User creates/updates profile
-* User searches for videos for specfic profiles 
+* User searches for videos for specfic videos 
 * Settings (Accesibility, Notification, General, etc.)
 
 **Optional Nice-to-have Stories**
