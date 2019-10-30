@@ -1,5 +1,4 @@
-# Overview
-Unit 8: Group Milestone - README 
+# Overview - README 
 ===
 
 
