@@ -34,24 +34,21 @@ Let users start their fitness journey easy. Users can go into the app and have v
 
 **Optional Nice-to-have Stories**
 
-* Log of past songs/people with album art covers matching
-* Page of most played songs (i.e. songs that most users are connecting through)
-* Profile Add-On: Top music choices, etc.
-* Optional Shuffle Button (i.e. random encounter/random song)
-* Listening/Encounter Queue
+* Log of stats relating to workouts
+* Step Tracker
+* Profile Add-On: Type of User
 
 ### 2. Screen Archetypes
 
 * Login 
 * Register - User signs up or logs into their account
-   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information to be properly matched with another person. 
-   * ...
-* Messaging Screen - Chat for users to communicate (direct 1-on-1)
-   * Upon selecting music choice users matched and message screen opens
+   * Upon Download/Reopening of the application, the user is prompted to log in to gain access to their profile information.
 * Profile Screen 
-   * Allows user to upload a photo and fill in information that is interesting to them and others
-* Song Selection Screen.
-   * Allows user to be able to choose their desired song, artist, genre of preference and begin listening and interacting with others.
+   * Allows user to upload a photo and fill out information necessary for calorie count and weight adjustment. 
+* Exercise Selection
+   * Allows user to search for exercises. It will pull up the exercises that have vidoes and explanations. 
+* Certain Exercise Page
+   * This is the exercise they are looking for, but towards the whole screen. This provides the video, with tips underneath for              technique. 
 * Settings Screen
    * Lets people change language, and app notification settings.
 
@@ -59,27 +56,32 @@ Let users start their fitness journey easy. Users can go into the app and have v
 
 **Tab Navigation** (Tab to Screen)
 
-* Music selection
+* Workout Selection
 * Profile
 * Settings
 
 Optional:
-* Music/Encounter Queue
-* Discover (Top Choices)
+* Workout Searching
+* Workout Browsing (Top Workouts)
 
 **Flow Navigation** (Screen to Screen)
 * Forced Log-in -> Account creation if no log in is available
-* Music Selection (Or Queue if Optional) -> Jumps to Chat
+* Workout Selection (Or Browsing if Optional) -> Workout Contents Page 
 * Profile -> Text field to be modified. 
 * Settings -> Toggle settings
+* Workout Searching (If Available) -> Text Field to be modified
 
 ## Wireframes
-<img src="https://i.imgur.com/9CrjH1K.jpg" width=800><br>
+<img src="" width=800><br>
 
 ### [BONUS] Digital Wireframes & Mockups
-<img src="https://i.imgur.com/lYHn37F.jpg" height=200>
+
 
 ### [BONUS] Interactive Prototype
+
+<<<master
+
+=======
 <img src="https://i.imgur.com/AiKfE5g.gif" width=200>
 
 ## Schema 
@@ -127,3 +129,4 @@ Optional:
    | description     | String                  | description of goal object                                               |
    | startDate       | Number                  | start date of a goal, editable of the |
    | endDate         | Number                  | array of the workouts that are not created by the user, saved to account |
+>>> Zarsla
