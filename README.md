@@ -79,3 +79,54 @@ Optional:
 
 ### [BONUS] Interactive Prototype
 
+<<<master
+
+=======
+<img src="https://i.imgur.com/AiKfE5g.gif" width=200>
+
+## Schema 
+### Models
+#### User
+
+   | Property      	 | Type                    | Description                                                              |
+   | --------------- | ----------------------- | -------------------------------------------------------------------------|
+   | profile         | Pointer to the Profile  | Profile of the User                                                      |
+   | username        | String                  | unique id that is for the account                                        |
+   | password        | String                  | unique id that is for the acessing the account                           |
+   | savedWorkouts   | Array                   | array of the workouts that are not created by the user, saved to account |
+   | createdWorkouts | Array                   | array of the workouts that are created by the user.                      |
+   | goals           | Array                   | array of the goals object.                                               |
+
+
+ #### Profile
+
+   | Property      	 | Type                    | Description                                                              |
+   | --------------- | ----------------------- | -------------------------------------------------------------------------|
+   | image           | image                   | Image of the user.                                                       |
+   | counter         | number                  | Calorie Counter calulated from infomation of the user                    |
+   | gender          | String                  | The gender of the user                                                   |
+   | height          | number                  | The height of the user                                                   |
+   | weight          | number                  | The weight of the user                                                   |
+   | age             | number                  | The age of the user                                                      |
+
+#### Workouts
+
+   | Property      	 | Type                    | Description |
+   | --------------- | ----------------------- | -------------------------------------------------------------------------|
+   | name            | String                  | unique id of the workout                                                 |
+   | type            | String                  | type of workout                                                          |
+   | video           | Pointer to the Video    | pointer to the video that the workout is                                 |
+   | description     | String                  | discription of the video                                                 |
+   | didWorkout      | Boolean                 | wheter the users has done the workout or not                             |
+   | time            | Number                  | the length of time for the work out                                      |
+   | intensity       | String                  | the type of the intensity of the workout                                 |
+
+ #### Goals
+
+   | Property      	 | Type                    | Description |
+   | --------------- | ----------------------- | -------------------------------------------------------------------------|
+   | name            | String                  | unique id of the goal object                                             |
+   | description     | String                  | description of goal object                                               |
+   | startDate       | Number                  | start date of a goal, editable of the |
+   | endDate         | Number                  | array of the workouts that are not created by the user, saved to account |
+>>> Zarsla
