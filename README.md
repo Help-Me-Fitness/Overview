@@ -79,10 +79,6 @@ Optional:
 
 ### [BONUS] Interactive Prototype
 
-<<<master
-
-=======
-
 
 ## Schema 
 ### Models
