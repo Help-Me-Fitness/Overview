@@ -129,4 +129,4 @@ Optional:
    | description     | String                  | description of goal object                                               |
    | startDate       | Number                  | start date of a goal, editable of the |
    | endDate         | Number                  | array of the workouts that are not created by the user, saved to account |
->>> Zarsla
+
