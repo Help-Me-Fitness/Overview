@@ -82,7 +82,7 @@ Optional:
 <<<master
 
 =======
-<img src="https://i.imgur.com/AiKfE5g.gif" width=200>
+
 
 ## Schema 
 ### Models
