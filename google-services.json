@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640696761448",
+    "firebase_url": "https://helpmefitne.firebaseio.com",
+    "project_id": "helpmefitne",
+    "storage_bucket": "helpmefitne.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640696761448:android:ad729c70dd228528ff0fdd",
+        "android_client_info": {
+          "package_name": "com.example.helpmefitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640696761448-2vl550kjto2lgf6t75k0os26tl65id8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuvkltASfWwY2vEEhM4ul_OcUIis09dwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640696761448-2vl550kjto2lgf6t75k0os26tl65id8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
